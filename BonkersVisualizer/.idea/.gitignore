@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/../cmake-build-debug
+# Datasource local storage ignored files
+/../../../../../:\GitRepos\IrrigationStation\BonkersVisualizer\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,3 @@
+D:/GitRepos/IrrigationStation/BonkersVisualizer/cmake-build-debug/CMakeFiles/BonkersVisualizer.dir
+D:/GitRepos/IrrigationStation/BonkersVisualizer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitRepos/IrrigationStation/BonkersVisualizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
