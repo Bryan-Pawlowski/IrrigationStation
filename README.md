@@ -5,7 +5,7 @@
 Welcome to Irrigation Station! This is Bryan's vision to actually get 
 some sort of real and fun side project going that actually has something
 to do with what I went to University for. Strange times. 
----
+
 I wanted to create a project that could be helpful for people to learn how
 to contribute to a small yet nontrivially-sized project spanning multiple
 disciplines. Before we get into the different branches of the project,
