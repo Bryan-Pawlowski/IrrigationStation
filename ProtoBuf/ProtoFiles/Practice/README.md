@@ -20,14 +20,17 @@ For reals though I super promise to write about what's up with that proto file.
 
 I need to put stuff here or the formatting on github.com has an awful time.
 
-##Lot Manager
+**UPDATE** Just kidding turns out I was using my "jump to conclusions mat." I need to put spaces between those hashes
+and the name of the section. ***Egg on myy faaaaaace***.
+
+## Lot Manager
 
 hhhehehehehehheheheeeeeeeeeeh projects on projects.
 
-##Lot Viewer
+## Lot Viewer
 
 More laughter. More projects on projects.
 
-##Good night :D
+## Good night :D
 
 Night got out of hand for me, so will be handling the project setups tomorrow. 
