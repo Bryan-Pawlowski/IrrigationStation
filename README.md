@@ -1,5 +1,7 @@
 # IrrigationStation
 
+[![Join the chat at https://gitter.im/IrrigationStation/community](https://badges.gitter.im/IrrigationStation/community.svg)](https://gitter.im/IrrigationStation/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## About
 
 Welcome to Irrigation Station! This is Bryan's vision to actually get 
