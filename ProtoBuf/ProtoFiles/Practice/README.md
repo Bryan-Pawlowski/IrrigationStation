@@ -18,7 +18,9 @@ For reals though I super promise to write about what's up with that proto file.
 
 ## Dat Proto
 
-I need to put stuff here or the formatting on github.com has an awful time.
+Before we can begin with any development over on this end, we first need to make sure our protobuf library/toolkit is 
+installed. To do this go to the [Protobuf](https://github.com/PixelChaserB/IrrigationStation/tree/main/ProtoBuf) page 
+follow the instructions in the section titled "Protobuf setup for Windows."
 
 **UPDATE** Just kidding turns out I was using my "jump to conclusions mat." I need to put spaces between those hashes
 and the name of the section. ***Egg on myy faaaaaace***.
