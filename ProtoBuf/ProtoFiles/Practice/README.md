@@ -1,4 +1,7 @@
 # Practice ProtoBuf
+___
+[![Gitter](https://badges.gitter.im/IrrigationStation/Practice.svg)](https://gitter.im/IrrigationStation/Practice?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## Wait whaaa....?
 
 Ok so yeah we're going to put some practice stuff in here because I'm a huge noob and I'm not afraid to show it. Yee.
@@ -33,6 +36,6 @@ hhhehehehehehheheheeeeeeeeeeh projects on projects.
 
 More laughter. More projects on projects.
 
-## Good night :D
+## Need Help?
 
-Night got out of hand for me, so will be handling the project setups tomorrow. 
+Click that chat badge at the top of the readme!
