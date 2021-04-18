@@ -1,0 +1,24 @@
+syntax = "proto2";
+
+package Practice;
+
+message ParkingSpot
+{
+  required int32 SpotNum = 1;
+  enum VehicleType
+  {
+    CAR = 0;
+    VAN = 1;
+    TRUCK = 2;
+    MOTO = 3;
+    EMPTY = 4;
+  }
+
+  required VehicleType Type = 2;
+
+}
+
+message ParkingLot
+{
+  repeated ParkingSpot spots = 1;
+}
