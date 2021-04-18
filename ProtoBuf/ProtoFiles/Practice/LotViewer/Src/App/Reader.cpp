@@ -8,6 +8,8 @@
 
 using namespace std;
 
+#pragma region Public Function Implementations
+
 string Reader::DisplayLot()
 {
     if(Initialized())
@@ -25,6 +27,10 @@ string Reader::DisplayLot()
     }
 }
 
+#pragma endregion
+
+#pragma region Private Function Implementations
+
 string Reader::GenerateOutput()
 {
     ///TODO: Generate the output.
@@ -39,3 +45,5 @@ inline bool Reader::Initialized()
 
     return Initialized ? MyLot->IsInitialized() : false;
 }
+
+#pragma endregion
