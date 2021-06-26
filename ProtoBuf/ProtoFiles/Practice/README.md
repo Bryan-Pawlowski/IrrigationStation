@@ -25,16 +25,29 @@ Before we can begin with any development over on this end, we first need to make
 installed. To do this go to the [Protobuf](https://github.com/PixelChaserB/IrrigationStation/tree/main/ProtoBuf) page 
 follow the instructions in the section titled "Protobuf setup for Windows."
 
-**UPDATE** Just kidding turns out I was using my "jump to conclusions mat." I need to put spaces between those hashes
-and the name of the section. ***Egg on myy faaaaaace***.
+## ImGui.NET
+
+Originally, this example was going to be spread across a C++ and a C# implementation which would read in/out the same protobuf 
+files to communicate with each other. At this point in my life/energy level, I feel pretty comfortable with _not_ taking that strategy 
+just creating a really awesome GUI version of it in C# instead. I have been using Dear IMGUI a whole lot for my real life job, so I 
+figured I'd give myself a break and use it for this example project.
 
 ## Lot Manager
 
-hhhehehehehehheheheeeeeeeeeeh projects on projects.
+This is a silly example project to demonstrate the power/ease-of-use of the protobuf system in a hopefully-digestible way 
+such that I can grok it enough to use it effectively for the actual irrigation project.
+
+Our silly example projects will be implementing a fake parking lot management system for a single machine. The "Lot Manager" could be
+conceptualized as a system only accessible to a parking lot employee who would be responsible for tracking which vehicles are
+parked where, if there are any.
 
 ## Lot Viewer
 
-More laughter. More projects on projects.
+The lot viewer can be understood to be a display for a parking lot customer. Nobody wants this, nobody asked for this. I am not 
+doing this because I think it would be a good idea. I am doing it because it's what I could think up when trying to come up with 
+some nontrivial example of how I intend to use Protobuf in the full project.
+
+This section will be filled once I come up with a plan for this.
 
 ## Need Help?
 

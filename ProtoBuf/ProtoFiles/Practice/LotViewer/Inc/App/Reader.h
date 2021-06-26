@@ -38,6 +38,7 @@ public:
 
 private:
     ///@brief Heavy-lifter for generating our parking lot output. Largely responsible for the whole thing.
+    ///@returns generated string output of parking lot status.
     std::string GenerateOutput();
 
     ///@brief checks first if MyLot is not a null pointer.

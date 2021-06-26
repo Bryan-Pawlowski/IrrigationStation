@@ -31,12 +31,11 @@ before the install will succeed. In case you miss them on the page, here they ar
 
 3. Open Powershell. I prefer going through [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)
 
-
-    
-
-...to-be-continued. good night!
+4. type this command into your terminal: `vcpkg install protobuf:x64-windows` (if you are using 32 bit windows, maybe install the 32 bit version instead...)
 
 ## [Practice](https://github.com/PixelChaserB/IrrigationStation/tree/main/ProtoBuf/ProtoFiles/Practice)
 
-Practice protobuf data layout with acouple of lightweight practice projects. I've got this idea for a simulated parking lot. 
-I never said it was a good one.
+Practice protobuf data layout with a lightweight practice project. It'll be a silly little thing that is a fake system
+to take care of fake parking lots. I'm utilizing a couple of different libraries in here which will be pretty important later
+on in our development: [IMGui.Net](https://github.com/mellinoe/ImGui.NET) and protobuf, which this readme has already introduced 
+to you at least a little bit.

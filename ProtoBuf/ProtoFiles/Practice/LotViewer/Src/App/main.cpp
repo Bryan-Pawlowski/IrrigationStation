@@ -1,6 +1,5 @@
 #include <iostream>
 #include <App/Reader.h>
-#include "ProtoBuf/Practice.pb.h"
 #include <fstream>
 
 using namespace std;
